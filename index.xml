@@ -7,9 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2019 Vivek</copyright>
+    <lastBuildDate>Sun, 29 Dec 2019 18:30:17 +0530</lastBuildDate>
     
 	<atom:link href="https://viveks.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://viveks.dev/about/</link>
+      <pubDate>Sun, 29 Dec 2019 18:30:17 +0530</pubDate>
+      
+      <guid>https://viveks.dev/about/</guid>
+      <description>Hi, I am Vivek.
+I am a developer based out of Kerala, India. Addicted to computers from a young age, I have been developing small micro-controller based programs to complex enterprise applications for some time now. I see technology as an &amp;ldquo;enabler&amp;rdquo; &amp;amp; was always marvelled by the progress, we as a species, abled to achieve using it.
+In the last 5 years, I have co-created two startups, Codeister Technologies &amp;amp; Spoon.</description>
+    </item>
     
   </channel>
 </rss>
