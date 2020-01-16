@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2019 Vivek</copyright>
-    <lastBuildDate>Thu, 16 Jan 2020 18:30:17 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 21:37:17 +0530</lastBuildDate>
     
 	<atom:link href="https://viveks.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Photos</title>
+      <link>https://viveks.dev/photos/</link>
+      <pubDate>Thu, 16 Jan 2020 21:37:17 +0530</pubDate>
+      
+      <guid>https://viveks.dev/photos/</guid>
+      <description> .__h_instagram.card { font-family: -apple-system,BlinkMacSystemFont,&#34;Segoe UI&#34;,Roboto,Oxygen-Sans,Ubuntu,Cantarell,&#34;Helvetica Neue&#34;,sans-serif; font-size: 14px; border: 1px solid rgb(219, 219, 219); padding: 0; margin-top: 30px; } .__h_instagram.card .card-header, .__h_instagram.card .card-body { padding: 10px 10px 10px; } .__h_instagram.card img { width: 100%; height: auto; }  viveks_   View More on Instagram   viveks_   View More on Instagram   viveks_   View More on Instagram   viveks_   View More on Instagram   viveks_   View More on Instagram   viveks_   View More on Instagram   viveks_   View More on Instagram   viveks_   View More on Instagram   viveks_   View More on Instagram   </description>
+    </item>
     
     <item>
       <title>Acknowledgements</title>

@@ -1,13 +1,23 @@
 <!DOCTYPE html>
 <html><meta charset="utf-8"><meta name="generator" content="Hugo 0.62.0" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="color-scheme" content="light only">
-<meta name="supported-color-schemes" content="light only"><title>Acknowledgements&nbsp;&ndash;&nbsp;Vivek Sasidharan</title>
+<meta name="supported-color-schemes" content="light only"><title>Acknowledgements&nbsp;&ndash;&nbsp;Vivek Sasidharan | Personal Website</title>
 <script type="application/javascript">
-var doNotTrack = false;
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
 if (!doNotTrack) {
 	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'UA-155159093-1', 'auto');
-	
+	if (window.sessionStorage) {
+		var GA_SESSION_STORAGE_KEY = 'ga:clientId';
+		ga('create', 'UA-155159093-1', {
+	    'storage': 'none',
+	    'clientId': sessionStorage.getItem(GA_SESSION_STORAGE_KEY)
+	   });
+	   ga(function(tracker) {
+	    sessionStorage.setItem(GA_SESSION_STORAGE_KEY, tracker.get('clientId'));
+	   });
+   }
+	ga('set', 'anonymizeIp', true);
 	ga('send', 'pageview');
 }
 </script>
@@ -19,7 +29,7 @@ if (!doNotTrack) {
 <meta property="og:url" content="https://viveks.dev/acknowledgements/" />
 <meta property="og:image" content="https://viveks.dev/img/pic.png"/>
 <meta property="article:published_time" content="2020-01-16T18:30:17+05:30" />
-<meta property="article:modified_time" content="2020-01-16T18:30:17+05:30" /><meta property="og:site_name" content="Vivek Sasidharan" />
+<meta property="article:modified_time" content="2020-01-16T18:30:17+05:30" /><meta property="og:site_name" content="Vivek Sasidharan | Personal Website" />
 
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://viveks.dev/img/pic.png"/>
@@ -38,7 +48,7 @@ if (!doNotTrack) {
 <li>It is based on an older version of the <a href="https://themes.gohugo.io/hugo-notepadium"target="_blank"><code>Notepadium</code></a> theme.</li>
 <li>Hosted with the incredible 🙌 <a href="https://pages.github.com"target="_blank"><code>Github Pages</code></a>.</li>
 </ul>
-</article><section class="article-navigation"><p><a class="link" href="/about/"><span class="li"></span>About</a class="link">
+</article><section class="article-navigation"><p><a class="link" href="/photos/"><span class="li"></span>Photos</a></p><p><a class="link" href="/about/"><span class="li"></span>About</a class="link">
     </p></section></div><section id="footer" class="footer max-body-width"><div class="nav"><ul><li><a class="article-tag footer-nav" href="https://github.com/viveks7" target="_blank"><img class="inline-svg-footer" src="/fontawesome/github.svg"><span>&nbsp;</span>GitHub</a></li><li><a class="article-tag footer-nav" href="https://twitter.com/viveks_" target="_blank"><img class="inline-svg-footer" src="/fontawesome/twitter.svg"><span>&nbsp;</span>Twitter</a></li><li><a class="article-tag footer-nav" href="https://www.linkedin.com/in/viveks009" target="_blank"><img class="inline-svg-footer" src="/fontawesome/linkedin.svg"><span>&nbsp;</span>LinkedIn</a></li><li><a class="article-tag footer-nav" href="https://www.instagram.com/viveks_" target="_blank"><img class="inline-svg-footer" src="/fontawesome/instagram.svg"><span>&nbsp;</span>Instagram</a></li><li><a class="article-tag footer-nav" href="https://facebook.com/viveks009" target="_blank"><img class="inline-svg-footer" src="/fontawesome/facebook.svg"><span>&nbsp;</span>Facebook</a></li></ul></div><p>©2019 Vivek</p>
     <p><a href="/acknowledgements/">Acknowledgements</a></p>
     </section></div>
