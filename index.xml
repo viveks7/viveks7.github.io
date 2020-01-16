@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2019 Vivek</copyright>
-    <lastBuildDate>Sun, 29 Dec 2019 18:30:17 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 18:30:17 +0530</lastBuildDate>
     
 	<atom:link href="https://viveks.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Acknowledgements</title>
+      <link>https://viveks.dev/acknowledgements/</link>
+      <pubDate>Thu, 16 Jan 2020 18:30:17 +0530</pubDate>
+      
+      <guid>https://viveks.dev/acknowledgements/</guid>
+      <description> This blog is powered by Hugo. It is based on an older version of the Notepadium theme. Hosted with the incredible 🙌 Github Pages.  </description>
+    </item>
     
     <item>
       <title>About</title>
