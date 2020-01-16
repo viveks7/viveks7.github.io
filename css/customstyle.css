@@ -1,0 +1,20 @@
+.inline-svg {
+    display: inline-block;
+    height: 1.15rem;
+    width: 1.15rem;
+    top: 0.25rem;
+    position: relative;
+}
+
+.inline-svg-footer {
+    filter: invert(.5) sepia(1) saturate(20) hue-rotate(192deg);
+    display: inline-block;
+    height: 1rem;
+    width: 1rem;
+    position: relative;
+}
+
+.footer-nav {
+    display: flex !important;
+    align-items: center;
+}
