@@ -1,3 +1,5 @@
 User-agent: *
-Disallow: 
-Sitemap: /sitemap.xml
+Disallow: 404.html
+Disallow: /404/
+Disallow: /img/*
+Sitemap: https://viveks.dev/sitemap.xml
