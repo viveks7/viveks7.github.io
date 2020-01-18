@@ -1,50 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vivek Sasidharan</title>
-    <link>https://viveks.dev/</link>
+    <link>/</link>
     <description>Recent content on Vivek Sasidharan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
     <copyright>©2019 Vivek</copyright>
     <lastBuildDate>Sat, 18 Jan 2020 19:02:33 +0530</lastBuildDate>
     
-	<atom:link href="https://viveks.dev/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>#0 - Meta</title>
-      <link>https://viveks.dev/post/the-meta-post/</link>
+      <title>Posts</title>
+      <link>/post/</link>
       <pubDate>Sat, 18 Jan 2020 19:02:33 +0530</pubDate>
       
-      <guid>https://viveks.dev/post/the-meta-post/</guid>
-      <description>&lt;p&gt;A blog post about the blog itself&lt;/p&gt;</description>
+      <guid>/post/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Photos</title>
-      <link>https://viveks.dev/photos/</link>
+      <link>/photos/</link>
       <pubDate>Thu, 16 Jan 2020 21:37:17 +0530</pubDate>
       
-      <guid>https://viveks.dev/photos/</guid>
+      <guid>/photos/</guid>
       <description> .__h_instagram.card { font-family: -apple-system,BlinkMacSystemFont,&#34;Segoe UI&#34;,Roboto,Oxygen-Sans,Ubuntu,Cantarell,&#34;Helvetica Neue&#34;,sans-serif; font-size: 14px; border: 1px solid rgb(219, 219, 219); padding: 0; margin-top: 30px; } .__h_instagram.card .card-header, .__h_instagram.card .card-body { padding: 10px 10px 10px; } .__h_instagram.card img { width: 100%; height: auto; }  viveks_   View More on Instagram   viveks_   View More on Instagram   viveks_   View More on Instagram   viveks_   View More on Instagram   viveks_   View More on Instagram   viveks_   View More on Instagram   viveks_   View More on Instagram   viveks_   View More on Instagram   viveks_   View More on Instagram   </description>
     </item>
     
     <item>
       <title>Acknowledgements</title>
-      <link>https://viveks.dev/acknowledgements/</link>
+      <link>/acknowledgements/</link>
       <pubDate>Thu, 16 Jan 2020 18:30:17 +0530</pubDate>
       
-      <guid>https://viveks.dev/acknowledgements/</guid>
-      <description> This blog is powered by Hugo. It is based on an older version of the Notepadium theme. Hosted with the incredible 🙌 Github Pages.  </description>
+      <guid>/acknowledgements/</guid>
+      <description> This blog is powered by Hugo. It is based on the Notepadium theme. Hosted with the incredible 🙌 Github Pages.  </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://viveks.dev/about/</link>
+      <link>/about/</link>
       <pubDate>Sun, 29 Dec 2019 18:30:17 +0530</pubDate>
       
-      <guid>https://viveks.dev/about/</guid>
+      <guid>/about/</guid>
       <description>Hi, I am Vivek.
 I am a developer based out of Kerala, India. Addicted to computers from a young age, I have been developing small micro-controller based programs to complex enterprise applications for some time now. I see technology as an &amp;ldquo;enabler&amp;rdquo; &amp;amp; was marvelled by the progress, we as a species, abled to achieve using it.
 In the last 5 years, I have co-created two startups, Codeister Technologies &amp;amp; Spoon.</description>

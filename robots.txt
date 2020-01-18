@@ -1,6 +1,3 @@
 User-agent: *
 Disallow: 
-Disallow: /css
-Disallow: /js
-Disallow: /fonts
 Sitemap: /sitemap.xml
