@@ -6,11 +6,29 @@
     <description>Recent content in Tags on Vivek Sasidharan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>©2019 Vivek</copyright>
-    <lastBuildDate>Sat, 18 Jan 2020 19:02:33 +0530</lastBuildDate>
+    <copyright>©2021 Vivek</copyright>
+    <lastBuildDate>Sat, 19 Jun 2021 19:34:35 +0530</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>.NET</title>
+      <link>/tags/.net/</link>
+      <pubDate>Sat, 19 Jun 2021 19:34:35 +0530</pubDate>
+      
+      <guid>/tags/.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSS</title>
+      <link>/tags/oss/</link>
+      <pubDate>Sat, 19 Jun 2021 19:34:35 +0530</pubDate>
+      
+      <guid>/tags/oss/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>about</title>
